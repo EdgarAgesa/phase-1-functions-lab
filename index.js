@@ -1,9 +1,9 @@
-function distanceFromHqInBlocks(Hq){ 
-    if (Hq > 42){
-        return Hq-42
+function distanceFromHqInBlocks(Blocks){ 
+    if (Blocks > 42){
+        return Blocks-42
     }
     else{
-        return 42-Hq
+        return 42-Blocks
     }
     }
     
